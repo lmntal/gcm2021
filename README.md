@@ -2,4 +2,4 @@ This repository contains a pdf file as an appendix for the paper "Engineering Gr
 
 The pdf file consists of proofs for the propositions and theorems that appear in the paper.
 
-The prototype implementation of LMNtal ShapeType can be found at [this repository](https://github.com/lmntal/shapetype).
+The prototype implementation of LMNtal ShapeType can be found in [this repository](https://github.com/lmntal/shapetype).
